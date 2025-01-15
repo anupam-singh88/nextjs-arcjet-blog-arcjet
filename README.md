@@ -3,6 +3,8 @@
 ## Overview  
 This project is a **Medium Clone** built with **Next.js**. It is a robust blogging application where users can share their thoughts and interact with others through comments. The app features user authentication, premium memberships, and advanced text editing tools.
 
+**LIVE_URL**: https://nextjs-arcjet-blog-arcjet.vercel.app/login?from=%2F
+
 ---
 
 ## Features  
@@ -44,8 +46,8 @@ This project is a **Medium Clone** built with **Next.js**. It is a robust bloggi
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/blog-app.git
-   cd blog-app
+   git clone https://github.com/anupam-singh88/nextjs-arcjet-blog-arcjet
+   cd nextjs-arcjet-blog-arcjet
    ```
 
 2. Install dependencies:  
