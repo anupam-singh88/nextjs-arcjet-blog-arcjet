@@ -57,11 +57,16 @@ This project is a **Medium Clone** built with **Next.js**. It is a robust bloggi
    - Create a `.env.local` file in the root directory.
    - Add the following variables:
      ```env
-     NEXT_PUBLIC_ARCJET_API_KEY=
-     NEXT_PUBLIC_PAYPAL_CLIENT_ID=
-     PAYPAL_SECRET_KEY=
-     MONGODB_URL=
-     NEXT_PUBLIC_UPLOADTHING_SECRET=
+    ARCJET_KEY=
+    MONGODB_URI=
+    JWT_SECRET=
+
+    NEXT_PUBLIC_PAYPAL_CLIENT_ID=
+
+
+    UPLOADTHING_TOKEN=
+    UPLOADTHING_APP_ID=
+    UPLOADTHING_SECRET=
      ```
 
 4. Start the development server:  
